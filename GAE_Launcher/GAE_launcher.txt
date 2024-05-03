@@ -1,0 +1,19 @@
+create new proj
+attach billing
+start app engine
+search "create an application in app engine standard"
+click 'open creation'
+set resources
+open terminal
+git clone 'repository link'
+map folder
+gcloud app deploy
+gcloud app browse
+visit link
+
+----------------------------------------------------
+path to project
+gcloud auth login
+gcloud config set project'idfrom GCP'
+gcloud app deploy
+gcloud app browse

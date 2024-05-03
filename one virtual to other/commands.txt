@@ -1,0 +1,14 @@
+username,passsword: vagrant
+ifconfig--------------(both vms)
+sudo apt install net-tools---------(sender vm)
+ping 'ip'--------------(sender vm, ip of receiving vm)
+ls---------
+touch abc.txt----------
+nano abc.txt----------
+cntr+x
+y
+cat abc.txt
+scp abc.txt[file name] vagrant@ip(receiver):/home/vagrant
+ls----receiver
+cat abc.txt[file name]---------receiver
+
